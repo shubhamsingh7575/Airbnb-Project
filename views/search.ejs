@@ -1,0 +1,17 @@
+<% layout("/layouts/boilerplate") %>  
+
+<h3>Search Results for "<%= query %>"</h3>
+
+<% if (searchres.length > 0) { %>
+  <% searchres.forEach(res => { %>
+    <div>
+      <h4><%= res.title %></h4>
+      <img src="<%= res.image.url %>" width="300" />
+      <p><%= res.location %>, <%= res.country %></p>
+      <p><%= res.description %></p>
+      <p>Price: $<%= res.price %></p>
+    </div>
+  <% }) %>
+<% } else { %>
+  <p>No results found for "<%= query %>"</p>
+<% } %>
