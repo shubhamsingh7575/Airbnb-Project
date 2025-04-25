@@ -21,9 +21,9 @@ A web-based Airbnb clone that allows users to explore, book, and manage vacation
 
 > Update the stack below based on your implementation (React, Node.js, etc.)
 
-- **Frontend:** React.js / HTML / CSS / JavaScript
+- **Frontend:** EJS / HTML / CSS / JavaScript
 - **Backend:** Node.js / Express.js
-- **Database:** MongoDB / PostgreSQL / etc.
+- **Database:** MongoDB / Cloudinary
 - **Deployment:** Render
 
 ---
