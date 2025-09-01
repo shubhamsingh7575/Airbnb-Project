@@ -8,12 +8,12 @@ An Airbnb-inspired web application where users can explore unique stays, host th
 
 ## 🚀 Features
 
-- User authentication (login/signup)
-- Property listings with images and details
-- Search and filter properties
-- Booking and reservation system
-- Responsive UI design for mobile and desktop
-- Admin or host dashboard (optional based on your implementation)
+- 🧳 Explore listings by category (Beach, Mountain, Cabin, etc.)
+- 📍 Location-based search with Mapbox integration
+- 🏡 Add and manage your own property listings
+- 🔐 Authentication with Passport.js
+- ☁️ Cloudinary for image uploads
+- 📱 Responsive design for all devices
 
 ---
 
@@ -28,6 +28,13 @@ An Airbnb-inspired web application where users can explore unique stays, host th
 - **Deployment:** Render
 
 ---
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js & npm
+- MongoDB
+- Cloudinary & Mapbox accounts
 
 ## 🔧 Installation
 
