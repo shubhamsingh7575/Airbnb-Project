@@ -1,6 +1,6 @@
 # Airbnb Clone Project
 
-A web-based Airbnb clone that allows users to explore, book, and manage vacation rentals. This project mimics core Airbnb functionalities and is built as part of a web development portfolio.
+An Airbnb-inspired web application where users can explore unique stays, host their own properties, and share experiences through reviews. Built with modern web technologies, the platform delivers a smooth booking and hosting experience with maps, authentication, and listing management.
 
 🌐 [Live Demo](https://airbnb-project-kk8b.onrender.com)
 
