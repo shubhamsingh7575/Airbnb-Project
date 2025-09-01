@@ -19,11 +19,12 @@ An Airbnb-inspired web application where users can explore unique stays, host th
 
 ## 🛠️ Tech Stack
 
-> Update the stack below based on your implementation (React, Node.js, etc.)
 
 - **Frontend:** EJS / HTML / CSS / JavaScript
 - **Backend:** Node.js / Express.js
 - **Database:** MongoDB / Cloudinary
+- **Maps:** Mapbox
+- **Authentication:** Passport.js
 - **Deployment:** Render
 
 ---
