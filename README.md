@@ -1,4 +1,4 @@
-# Airbnb Clone Project
+# NestStay
 
 An Airbnb-inspired web application where users can explore unique stays, host their own properties, and share experiences through reviews. Built with modern web technologies, the platform delivers a smooth booking and hosting experience with maps, authentication, and listing management.
 
