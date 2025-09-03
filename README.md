@@ -1,6 +1,6 @@
-# Airbnb Clone Project
+# NestStay
 
-A web-based Airbnb clone that allows users to explore, book, and manage vacation rentals. This project mimics core Airbnb functionalities and is built as part of a web development portfolio.
+An Airbnb-inspired web application where users can explore unique stays, host their own properties, and share experiences through reviews. Built with modern web technologies, the platform delivers a smooth booking and hosting experience with maps, authentication, and listing management.
 
 🌐 [Live Demo](https://airbnb-project-kk8b.onrender.com)
 
@@ -8,25 +8,33 @@ A web-based Airbnb clone that allows users to explore, book, and manage vacation
 
 ## 🚀 Features
 
-- User authentication (login/signup)
-- Property listings with images and details
-- Search and filter properties
-- Booking and reservation system
-- Responsive UI design for mobile and desktop
-- Admin or host dashboard (optional based on your implementation)
+- 🧳 Explore listings by category (Beach, Mountain, Cabin, etc.)
+- 📍 Location-based search with Mapbox integration
+- 🏡 Add and manage your own property listings
+- 🔐 Authentication with Passport.js
+- ☁️ Cloudinary for image uploads
+- 📱 Responsive design for all devices
 
 ---
 
 ## 🛠️ Tech Stack
 
-> Update the stack below based on your implementation (React, Node.js, etc.)
 
 - **Frontend:** EJS / HTML / CSS / JavaScript
 - **Backend:** Node.js / Express.js
 - **Database:** MongoDB / Cloudinary
+- **Maps:** Mapbox
+- **Authentication:** Passport.js
 - **Deployment:** Render
 
 ---
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js & npm
+- MongoDB
+- Cloudinary & Mapbox accounts
 
 ## 🔧 Installation
 
